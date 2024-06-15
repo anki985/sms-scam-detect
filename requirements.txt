@@ -7,6 +7,7 @@ numpy==1.26.4
 pandas==2.2.2
 requests==2.32.3
 rsa==4.9
+tf-keras==2.16.0
 tensorflow==2.16.1
 transformers==4.41.2
 whois==1.20240129.2
