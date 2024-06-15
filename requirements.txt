@@ -1,0 +1,14 @@
+beautifulsoup4==4.12.3
+dill==0.3.8
+Flask==3.0.3
+joblib==1.4.2
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.2
+requests==2.32.3
+rsa==4.9
+tensorflow==3.2.0
+transformers==4.41.2
+whois==1.20240129.2
+xgboost==2.0.3
+torch
